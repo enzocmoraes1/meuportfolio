@@ -1,0 +1,12 @@
+body{
+    background-color: chocolate;
+}
+.principal{
+
+}
+#nome{
+    transform: rotate(90deg);
+    position: absolute;
+    right: 0;
+    top: 150px;
+}
